@@ -4,4 +4,7 @@
     <string name="fragment_main">Fragment Main</string>
     <string name="fragment_first">First Fragment</string>
     <string name="fragment_second">Second Fragment</string>
+
+    <string name="button_first_fragment">Button First Fragment</string>
+    <string name="button_second_fragment">Button Second Fragment</string>
 </resources>

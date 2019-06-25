@@ -8,6 +8,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
-            android:text="Button First Fragment"/>
+            android:text="@string/button_first_fragment"/>
 
 </RelativeLayout>

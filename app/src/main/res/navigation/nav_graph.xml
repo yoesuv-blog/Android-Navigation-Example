@@ -18,6 +18,9 @@
             android:id="@+id/fragmentSecond"
             android:name="com.yoesuv.mynavigation.SecondFragment"
             android:label="@string/fragment_second"
-            tools:layout="@layout/second_fragment" />
+            tools:layout="@layout/second_fragment" >
+        <action android:id="@+id/action_to_fragment_first"
+                app:destination="@id/fragmentFirst"/>
+    </fragment>
 
 </navigation>
